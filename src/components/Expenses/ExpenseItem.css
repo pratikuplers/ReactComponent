@@ -1,0 +1,13 @@
+
+  .expense-item {
+      display: flex;
+      color: aqua;
+      border: 1px solid aquamarine;
+      justify-content: center;
+      align-items: center;
+      min-height: 5em;
+    }
+  .expense-item div {
+      width: 33%; 
+      border: 1px snow antiquewhite;     
+    }
