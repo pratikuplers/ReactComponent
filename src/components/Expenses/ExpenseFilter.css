@@ -1,0 +1,13 @@
+.expense__filter{
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 10px 5px;
+    margin: 10px 0;
+}
+select{   
+    background: aqua;
+    padding: 5px;
+}
+.expense__filter_control label { 
+    padding: 10px;
+}

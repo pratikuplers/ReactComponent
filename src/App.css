@@ -6,6 +6,11 @@
   height: 10vmin;
   pointer-events: none;
 }
+h4 {
+  color: aqua;
+  padding: 20px 0px;
+  margin: 12px 5px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

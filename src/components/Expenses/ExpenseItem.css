@@ -11,3 +11,9 @@
       width: 33%; 
       border: 1px snow antiquewhite;     
     }
+  .expense-item button {
+       background: aqua;
+       padding: 12px 5px;
+       border-radius: 5px;
+       width: 8%;
+     }

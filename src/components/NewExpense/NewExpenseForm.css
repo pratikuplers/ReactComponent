@@ -1,0 +1,33 @@
+form {
+    border: 3px solid black;
+}
+input {
+    width: 95%;
+    padding: 12px 10px;
+    display: inline-flex;
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin: 14px 5px;
+    color: aqua;
+    background-color: rgb(42 180 184);
+}
+input[type='date'] {
+    padding: 10px;
+}
+label {
+    color: aqua;
+    display: flex;
+    margin: 0 0 0 7px;
+}
+
+.new-expernse__control {
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.new-expernse__actions button {
+    padding: 10px 10px;
+    margin: 14px 5px;
+    background-color: aqua;
+    border-radius: 6px;
+}
